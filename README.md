@@ -62,6 +62,11 @@ We’d love to hear from you! Whether you're an athlete, a coach, or a club look
 
 ---
 
+### 📲 Download the App  
+- **Google Play Store**: [Download on Play Store](https://play.google.com/store/apps/details?id=com.flickit.flickit&pcampaignid=web_share)  
+- **Apple App Store**: Coming Soon  
+
+---
 
 ### 🌍 Join the Revolution  
 Transform your training experience and achieve your goals with Flickit. Together, we’re shaping the future of sports and fitness.  
