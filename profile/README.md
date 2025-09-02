@@ -23,8 +23,8 @@ Our flagship **Flickit Mobile App** provides an interactive and immersive experi
 
 ---
 
-## 🤝 Club Collaboration *(Coming Soon)*  
-We are partnering with sports clubs to create an all-in-one management and training platform:  
+## 🤝 Club Collaboration  
+We partner with sports clubs to create an all-in-one management and training platform:  
 
 - **Coach-Driven Training**:  
   Clubs can manage their students' progress, assign practice sessions, and provide targeted training programs.  
